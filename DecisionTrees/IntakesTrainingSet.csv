@@ -1,0 +1,246 @@
+studentnummer,plaats,naam_vooropleiding,geslacht,,was_aanwezig,advies,aantal_weigeringen,gewogen_gemiddelde,komt_studeren,reden_stoppen,voorkeursopleiding,competenties,capaciteiten,intr_motivatie,extr_motivatie,is_mbo_deficient,Ondernemen in combinatie met studie,Nadere oriëntatie op een Ad-opleiding in ’s-Hertogenbosch,Nadere oriëntatie op een Ad opleiding in Roosendaal,persoonlijk_bijspijker_advies,"Functiebeperking, namelijk",Dyslexie,Topsport in combinatie met studie,Chronische ziekte,Problemen in de persoonlijke sfeer,"Ander onderwerp, namelijk",Financiële problemen in relatie tot studeren,Studiekeuze,Extra gesprek met opleiding,Bijscholing Engels,Peermentoring (specifiek ter ondersteuning van ASS & AD(H)D),Aanmelden_voor_verkort_opleidingstraject,Hyperrr - Peermentoring (specifiek door opleiding aangeboden),MBO - Oefenen Nederlandse Taal,MBO - Peermentoring (specifiek ter ondersteuning van ASS & AD(H)D),MBO - Peermentoring (ter ondersteuning in het algemeen door hogerejaars student van dezelfde opleiding),Traject opleiding
+2000000,DONGEN,Applicatieontwikkelaar,m,1996,Ja,Positief,0,16,Ja,,,5,7,7,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Verkort traject
+2000001,THOLEN,Applicatie - en mediaontwikkelaar,m,1998,Ja,Positief,0,17,Ja,,,6,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000002,MADE,Ondernemer detailhandel,v,1997,,Positief,0,17,-,Uitgeschreven voor opleiding.,Bedrijfseconomie,7,5,6,6,Ja,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Regulier traject
+2000003,BREDA,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Twijfel,1,13,Ja,,,6,6,7,7,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000004,BREDA,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,1,18,Ja,,,7,7,8,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000005,BREDA,Elektrotechniek,m,1992,,Negatief,0,,-,Uitgeschreven voor opleiding.,,5,7,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000006,OOSTERHOUT NB,Mediadeveloper,m,1995,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,6,4,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Verkort traject
+2000007,Heemstede,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1998,,Negatief,0,,-,Uitgeschreven voor opleiding.,,6,5,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000008,BERGEN OP ZOOM,VWO NIEUW Economie en Maatschappij,m,1998,Ja,Positief,0,18,Ja,,,7,8,7,7,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000009,BERGEN OP ZOOM,HAVO NIEUW Natuur en Gezondheid,m,2000,Ja,Positief,0,18,Ja,,,7,8,6,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-
+2000010,GORINCHEM,Ondernemer horeca,m,1995,Ja,Negatief,0,,-,Uitgeschreven voor opleiding.,,5,6,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000011,BREDA,Gaming Gamedesigner,m,1993,Ja,Positief,1,18,Ja,,,6,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000012,RIJSBERGEN,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,2000,Ja,Twijfel,0,16,Ja,,,5,6,7,7,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000013,RIJEN,Applicatieontwikkelaar,m,1998,Ja,Positief,1,18,Ja,,,5,5,8,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Verkort traject
+2000014,BREDA,Colloquium Doctum,m,1991,Ja,Positief,0,18,Ja,,,6,6,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000015,GORINCHEM,Applicatieontwikkelaar,m,1997,Ja,Twijfel,1,13,-,,,7,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000016,TETERINGEN,HAVO NIEUW Natuur en Techniek,m,1998,Ja,Twijfel,0,15,Ja,,,6,8,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000017,ROOSENDAAL,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1999,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Technische Informatica,7,7,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000018,BERGEN OP ZOOM,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Twijfel,0,15,Ja,,,6,6,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-
+2000019,ZEIST,HAVO NIEUW Natuur en Techniek,v,2000,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,7,4,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000020,ETTEN-LEUR,Applicatieontwikkelaar,m,1998,Ja,Positief,0,16,Ja,,,7,5,7,6,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000021,GORINCHEM,Applicatieontwikkelaar,m,1997,,Twijfel,0,,-,,,6,6,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000022,RIJEN,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Positief,0,16,-,Uitgeschreven voor opleiding.,,6,5,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000023,ROOSENDAAL,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Positief,1,17,Ja,,,7,7,6,5,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Regulier traject
+2000024,GEMONDE,HAVO NIEUW Economie en Maatschappij,m,1999,,Negatief,0,,-,Uitgeschreven voor opleiding.,HBO-Rechten,6,3,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000025,WERKENDAM,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1999,Ja,Positief,0,18,Ja,,,5,7,7,7,Nee,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-
+2000026,DORDRECHT,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,16,Ja,,,5,6,8,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000027,TILBURG,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Twijfel,0,15,-,Uitgeschreven voor opleiding.,,6,6,4,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000028,HILVARENBEEK,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,0,14,Ja,,,6,6,7,7,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000029,Kwekwe,Buitenlandse vooropleiding via SL,m,1995,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,6,5,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000030,PAPENDRECHT,Mediavormgever,m,1996,,Negatief,0,,-,Uitgeschreven voor opleiding.,,6,5,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000031,DORST,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,2,12,Ja,,,7,7,8,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000032,BAARLE NASSAU,ICT-beheerder,m,1998,Ja,Positief,0,18,-,,,6,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000033,TILBURG,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1998,,Twijfel,2,,-,Uitgeschreven voor opleiding.,,5,2,7,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000034,MAASSLUIS,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,6,7,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Verkort traject
+2000035,BREDA,Applicatieontwikkelaar,m,1995,Ja,Positief,0,17,Ja,,,5,8,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000036,PUTTERSHOEK,Applicatieontwikkelaar,m,1996,Ja,Positief,0,17,Ja,,,8,9,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Verkort traject
+2000037,BREDA,Applicatieontwikkelaar,m,1997,Ja,Positief,0,18,Ja,,,7,9,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000038,BERGEN OP ZOOM,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,6,5,4,7,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Regulier traject
+2000039,OOSTERHOUT NB,Applicatieontwikkelaar,m,1993,Ja,Negatief,0,14,Ja,,,6,6,7,5,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000040,RAAMSDONKSVEER,Applicatieontwikkelaar,m,1993,Ja,Positief,0,18,Ja,,,7,6,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000041,TILBURG,Applicatieontwikkelaar,m,1993,Ja,Positief,0,18,Ja,,,7,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000042,BREDA,Applicatieontwikkelaar,m,1997,Ja,Positief,0,18,Ja,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000043,DORDRECHT,Adm Bedrijfsadministrateur,m,1996,Ja,Positief,0,18,Ja,,,5,6,7,5,Ja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000044,EINDHOVEN,HAVO NIEUW Natuur en Techniek,m,1999,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,5,6,8,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000045,IJSSELSTEIN UT,Applicatieontwikkelaar,m,1996,Ja,Positief,0,17,Ja,,,6,5,8,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000046,TILBURG,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Positief,0,18,Ja,,,6,7,7,8,Nee,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000047,HELLOUW,HAVO NIEUW Economie en Maatschappij,m,1998,,Negatief,2,,-,Uitgeschreven voor opleiding.,,6,6,4,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000048,WOUWSE PLANTAGE,Applicatieontwikkelaar,m,1997,Ja,Positief,0,18,Ja,,,6,7,5,5,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000049,BREDA,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,7,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000050,BREDA,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Positief,0,15,Ja,,,6,7,4,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000051,RIJEN,Mediadeveloper,v,1996,Ja,Positief,1,17,Ja,,,6,8,7,7,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000052,ROOSENDAAL,HAVO NIEUW Natuur en Gezondheid,m,2000,Ja,Positief,0,18,Ja,,,7,9,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000053,DORDRECHT,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1998,Ja,Positief,0,15,Ja,,,6,5,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000054,BREDA,HAVO NIEUW Natuur en Gezondheid,m,2000,Ja,Positief,0,17,Ja,,Informatica,7,6,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000055,EMMEN,Adm Bedrijfsadministrateur,m,1997,Ja,Positief,0,17,Ja,,,7,7,8,8,Ja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000056,RIDDERKERK,HAVO NIEUW Economie en Maatschappij,m,1997,,Negatief,1,,-,Uitgeschreven voor opleiding.,,5,4,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000057,PRINSENBEEK,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,5,8,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000058,BAVEL,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Positief,0,18,Ja,,,6,7,8,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000059,ETTEN-LEUR,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,0,18,-,,,6,7,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000060,BREDA,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Positief,0,18,Ja,,,7,8,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000061,ROOSENDAAL,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Twijfel,0,16,-,,,6,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000062,BERGEN OP ZOOM,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,6,5,7,6,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000063,BERGEN OP ZOOM,HAVO NIEUW Economie en Maatschappij,v,1998,Ja,Negatief,0,12,-,Uitgeschreven voor opleiding.,Informatica,6,5,8,7,Nee,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Regulier traject
+2000064,DEN HOUT NB,Mediadeveloper,m,1997,Ja,Positief,0,17,Ja,,,7,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000065,ETTEN-LEUR,Applicatieontwikkelaar,m,1997,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,6,5,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000066,BAVEL,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,18,Ja,,,7,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000067,NIEUW VOSSEMEER,HAVO NIEUW Economie en Maatschappij,v,2000,Ja,Positief,0,16,Ja,,,5,7,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000068,BREDA,MDW M&C Marketing medewerker,m,1993,Ja,Positief,0,18,Ja,,,8,6,6,6,Ja,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000069,ROOSENDAAL,HAVO NIEUW Natuur en Gezondheid,m,1997,Ja,Positief,0,16,Ja,,,7,6,7,6,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000070,HILVARENBEEK,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,0,11,Nee,Uitgeschreven voor opleiding.,,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-
+2000071,TETERINGEN,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,16,-,,,5,7,5,7,Nee,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-
+2000072,SCHIJF,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1997,Ja,Positief,1,17,Ja,,,4,8,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000073,DONGEN,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,5,5,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000074,SPRUNDEL,Applicatieontwikkelaar,m,1997,Ja,Positief,0,17,Ja,,,6,7,4,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000075,DORDRECHT,Mediadeveloper,m,1997,Ja,Positief,0,17,Ja,,,8,8,8,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000076,BREDA,Directiesecretaresse/Managementassistent,v,1996,Ja,Positief,0,14,Ja,,,6,6,5,6,Ja,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Regulier traject
+2000077,SLIEDRECHT,Applicatieontwikkelaar,m,1997,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,7,4,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000078,SLIEDRECHT,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,17,Ja,,,7,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000079,MADE,HAVO NIEUW Economie en Maatschappij,m,1999,,Positief,1,,-,,Informatica,6,8,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000080,BREDA,HAVO NIEUW Natuur en Techniek,v,1999,Ja,Positief,0,18,-,,,7,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000081,GORINCHEM,Applicatieontwikkelaar,m,1997,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,5,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000082,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1999,Ja,Positief,0,18,Ja,,,7,7,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000083,ROOSENDAAL,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Twijfel,0,14,Ja,,,3,7,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-
+2000084,BERGEN OP ZOOM,Colloquium Doctum,m,1993,Ja,Positief,0,15,Ja,,,6,6,9,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000085,GIESSENBURG,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,1,17,Ja,,,7,8,6,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-
+2000086,Zundert,Buitenlandse vooropleiding via SL,m,1996,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,5,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000087,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,2000,Ja,Twijfel,0,16,Ja,,,6,6,6,6,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000088,SLIEDRECHT,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Positief,0,17,-,Uitgeschreven voor opleiding.,,5,5,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000089,PAPENDRECHT,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Twijfel,1,16,Ja,,,6,5,5,6,Nee,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-
+2000090,BREDA,Applicatieontwikkelaar,m,1995,Ja,Positief,0,18,Ja,,,8,8,8,8,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000091,THOLEN,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,7,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000092,RUCPHEN,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Twijfel,0,16,Ja,,,2,7,4,7,Nee,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-
+2000093,BREDA,VWO NIEUW Natr en Tech+Natuur en Gezondh,m,1998,Ja,Twijfel,0,15,Ja,,,6,5,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-
+2000094,BREDA,Applicatie - en mediaontwikkelaar,m,1999,Ja,Twijfel,0,16,-,,,5,6,7,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000095,BREDA,Netwerkbeheerder,m,1995,Ja,Positief,0,18,Ja,,,7,8,6,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000096,BREDA,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Twijfel,0,16,Ja,,,7,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-
+2000097,NISPEN,Colloquium Doctum,m,1995,Ja,Positief,0,17,Ja,,,8,6,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000098,HARDINXVELD-GIESSENDAM,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Positief,0,18,Ja,,,7,6,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000099,OOSTERHOUT NB,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1999,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,6,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000100,GOIRLE,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,1,15,-,Uitgeschreven voor opleiding.,,5,7,5,7,Nee,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-
+2000101,SINT WILLEBRORD,Applicatieontwikkelaar,m,1992,,Negatief,0,,-,Uitgeschreven voor opleiding.,,5,5,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000102,HALSTEREN,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,7,6,7,7,Nee,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000103,BREDA,HAVO NIEUW Natuur en Gezondheid,m,1999,,Negatief,1,,-,Uitgeschreven voor opleiding.,Communication & Multimedia Design,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000104,HARDINXVELD GIESSENDAM,Applicatieontwikkelaar,m,1997,Ja,Positief,0,17,Ja,,,7,6,6,7,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000105,HALSTEREN,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,0,18,-,,,6,8,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000106,PRINSENBEEK,Mediadeveloper,m,1998,Ja,Positief,0,17,Ja,,,5,6,5,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000107,TILBURG,HAVO NIEUW Economie en Maatschappij,m,1999,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,6,7,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000108,STAVENISSE,HAVO NIEUW Natuur en Gezondheid,m,2000,Ja,Twijfel,0,14,Ja,,,5,6,5,8,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000109,BAVEL,Mediadeveloper,m,1997,Ja,Positief,0,18,Ja,,,6,7,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000110,BREDA,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,17,Ja,,,7,6,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000111,HEERLE,Colloquium Doctum,v,1996,Ja,Positief,0,18,Ja,,,7,6,7,7,Nee,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000112,MADE,HAVO NIEUW Economie en Maatschappij,m,1999,,Positief,1,,-,,Informatica,6,6,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000113,HOOGERHEIDE,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,2,7,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000114,BREDA,VWO NIEUW Econ en Maatsch+Cult & Maatsch,m,1999,Ja,Positief,0,18,Ja,,,6,6,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000115,OOSTERHOUT NB,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,1,18,Ja,,,5,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000116,SLEEUWIJK,Applicatieontwikkelaar,m,1996,Ja,Positief,0,16,Ja,,,5,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000117,BERGEN OP ZOOM,VWO NIEUW Natuur en Techniek,m,1998,Ja,Positief,0,14,Ja,,,6,6,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000118,ROOSENDAAL,,M,1997,Ja,Positief,0,18,Ja,Uitgeschreven voor opleiding.,,6,7,8,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000119,LEPELSTRAAT,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Positief,1,16,-,,,5,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000120,DORDRECHT,Buitenlandse vooropleiding via SL,v,1991,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,5,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000121,HARDINXVELD GIESSENDAM,Mediadeveloper,m,1998,Ja,Positief,0,18,Ja,,,6,6,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000122,BERGEN OP ZOOM,HAVO NIEUW Natuur en Gezondheid,m,1997,Ja,Positief,0,18,Ja,,,5,7,6,7,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000123,STEENBERGEN NB,HAVO NIEUW Economie en Maatschappij,m,2000,Ja,Twijfel,0,13,Ja,,,4,5,7,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000124,TILBURG,Media Interactieve vormgeving KC GOC,v,1994,Ja,Positief,0,18,Ja,,Informatica,6,8,6,8,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Regulier traject
+2000125,BREDA,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,18,-,,,3,9,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000126,DONGEN,HAVO NIEUW Natuur en Gezondheid,m,2000,,Negatief,0,,-,Uitgeschreven voor opleiding.,,2,5,8,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000127,HALSTEREN,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Twijfel,0,15,Ja,,Informatica,4,6,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000128,BREDA,Colloquium Doctum,m,1987,,Negatief,0,0,Ja,Gestopt vanwege andere reden,,7,5,6,5,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000129,LANGEWEG,HAVO NIEUW Natuur en Gezondheid,m,1999,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Communication & Multimedia Design,4,6,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000130,BREDA,Juridisch mdw openbaar bestuur,m,1994,Ja,Positief,0,17,-,Uitgeschreven voor opleiding.,Informatica,7,6,6,6,Ja,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000131,Dhaka,Buitenlandse vooropleiding via SL,m,1998,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,5,5,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000132,BREDA,Applicatieontwikkelaar,m,1998,Ja,Positief,0,18,Ja,,,7,9,9,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000133,RIJSBERGEN,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1999,Ja,Positief,0,16,Ja,,,5,7,6,7,Nee,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-
+2000134,WERKENDAM,HAVO NIEUW Natuur en Gezondheid,m,1997,Ja,Positief,0,18,Ja,,,7,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000135,BREDA,Mediadeveloper,m,1994,Ja,Positief,0,17,Ja,,,6,6,6,8,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Regulier traject
+2000136,BREDA,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,5,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000137,DORDRECHT,Applicatieontwikkelaar,m,1996,Ja,Positief,0,18,Ja,,,6,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000138,ROOSENDAAL,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,17,Ja,,,5,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000139,HENDRIK IDO AMBACHT,Applicatieontwikkelaar,m,1995,Ja,Negatief,0,13,Ja,,,4,6,7,5,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Verkort traject
+2000140,BREDA,HAVO NIEUW Natuur en Gezondheid,m,1997,Ja,Positief,0,17,Ja,,,6,6,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000141,BREDA,HAVO NIEUW Cultuur en Maatschappij,v,2000,Ja,Negatief,0,11,Ja,,,3,5,6,6,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000142,OOSTERHOUT NB,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Twijfel,1,13,Ja,,,4,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000143,PUTTE,HAVO NIEUW Economie en Maatschappij,v,2000,Ja,Positief,0,17,Ja,,Informatica,6,7,8,9,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000144,WERKENDAM,Applicatieontwikkelaar,m,1995,Ja,Positief,0,16,Ja,,,7,6,7,9,Nee,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Verkort traject
+2000145,BREDA,VWO NIEUW Natuur en Gezondheid,m,1998,Ja,Positief,0,16,Ja,,,5,7,6,7,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000146,HOOGVLIET ROTTERDAM,HAVO NIEUW Natuur en Gezondheid,m,1998,Ja,Positief,0,18,Ja,,,4,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000147,ETTEN-LEUR,HAVO NIEUW Economie en Maatschappij,m,2000,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,5,6,5,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000148,OOSTBURG,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1996,Ja,Positief,0,17,Ja,,,6,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000149,BEVERWIJK,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1998,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,7,5,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000150,HOOGERHEIDE,Applicatieontwikkelaar,m,1997,Ja,Positief,0,17,Ja,,,6,7,5,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000151,HALSTEREN,HAVO NIEUW Natuur en Gezondheid,m,1998,Ja,Twijfel,0,15,Ja,,,5,6,6,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000152,'S-GRAVENHAGE,Colloquium Doctum,m,1992,Ja,Positief,0,16,Ja,,,4,7,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000153,PAPENDRECHT,Applicatieontwikkelaar,m,1998,,Negatief,1,,-,Uitgeschreven voor opleiding.,,5,5,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000154,GILZE,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,18,-,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000155,MIDDELBURG,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,0,15,-,Uitgeschreven voor opleiding.,,7,6,5,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-
+2000156,OOST-SOUBURG,HAVO NIEUW Economie en Maatschappij,m,1997,Ja,Positief,0,18,-,,,6,8,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000157,OUD-BEIJERLAND,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,,5,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000158,MIDDELBURG,Applicatieontwikkelaar,m,1991,Ja,Positief,0,18,Ja,,,6,6,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Verkort traject
+2000159,BREDA,Buitenlandse vooropleiding via SL,m,1998,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Technische Informatica,5,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000160,RILLAND,ICT-beheerder,m,1997,Ja,Positief,0,18,Ja,,,6,7,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000161,BREDA,Colloquium Doctum,m,1996,Ja,Positief,0,17,Ja,,,6,7,7,8,Nee,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000162,BREDA,HAVO NIEUW Natuur en Gezondheid,m,1998,Ja,Positief,0,18,Ja,,,6,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000163,OOSTERHOUT NB,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1998,Ja,Positief,0,17,Nee,Uitgeschreven voor opleiding.,,6,6,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000164,Barendrecht,HAVO NIEUW Economie en Maatschappij,m,1996,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,7,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000165,BREDA,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Twijfel,1,17,-,,,5,6,5,7,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000166,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1999,Ja,Positief,1,16,Ja,,Informatica,7,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000167,BREDA,Colloquium Doctum,m,1995,Ja,Positief,0,18,Ja,,,5,7,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000168,TILBURG,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1997,Ja,Positief,0,18,-,Uitgeschreven voor opleiding.,Ruimtelijke Ontwikkeling,6,8,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000169,ETTEN-LEUR,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1998,Ja,Twijfel,0,16,Ja,,,7,6,5,6,Nee,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,-
+2000170,ROOSENDAAL,ICT-beheerder,m,1994,Ja,Positief,0,18,Ja,,,7,7,4,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Regulier traject
+2000171,ROOSENDAAL,HAVO NIEUW Economie en Maatschappij,m,1991,Ja,Twijfel,0,16,Ja,,,6,5,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-
+2000172,ROOSENDAAL,ICT-beheerder,m,1994,,Negatief,0,,-,Uitgeschreven voor opleiding.,,5,6,8,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000173,DORDRECHT,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1996,Ja,Positief,0,17,-,,,6,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000174,BREDA,Applicatieontwikkelaar,m,1997,Ja,Positief,0,15,Ja,,,7,7,5,7,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000175,ZWIJNDRECHT,Doktersassistent,v,1998,Ja,Positief,0,16,Ja,,,5,7,4,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000176,ANDEL,HAVO NIEUW Cultuur en Maatschappij,v,1995,Ja,Positief,1,16,Ja,,,6,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000177,ROTTERDAM,Netwerkbeheerder,m,1995,Ja,Positief,0,18,Ja,,,6,8,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000178,BERGEN OP ZOOM,HAVO NIEUW Natuur en Gezondheid,v,1994,Ja,Twijfel,0,17,Ja,,,6,5,7,6,Nee,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Regulier traject
+2000179,ETTEN-LEUR,Middenkader Engineering Technicus,m,1992,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000180,STEENBERGEN NB,HAVO NIEUW Economie en Maatschappij,m,1995,Ja,Positief,0,16,Ja,,,6,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000181,BREDA,Buitenlandse vooropleiding via SL,v,1996,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,7,5,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000182,BREDA,HAVO NIEUW Natuur en Techniek,m,1998,Ja,Positief,1,18,-,Uitgeschreven voor opleiding.,,7,8,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000183,KOEWACHT,Mediadeveloper,m,1998,,Negatief,0,,-,Uitgeschreven voor opleiding.,,7,5,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000184,PRINSENBEEK,HAVO NIEUW Cultuur en Maatschappij,m,1997,Ja,Positief,0,18,Ja,,,6,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000185,BREDA,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Positief,0,18,Ja,,,7,7,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000186,OUDENBOSCH,VWO NIEUW Natuur en Gezondheid,m,1998,Ja,Positief,0,17,Ja,,,6,7,6,7,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000187,BRUINISSE,Maatsch. Zorg MDW Volwassenenwerk,m,1996,Ja,Positief,0,17,-,Uitgeschreven voor opleiding.,Social Work,7,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Regulier traject
+2000188,DORDRECHT,HAVO NIEUW Natuur en Gezondheid,v,1997,Ja,Positief,0,18,Ja,,,6,6,4,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000189,DORDRECHT,ICT-beheerder,m,1998,Ja,Positief,0,18,Ja,,,7,7,5,8,Nee,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000190,BREDA,HAVO NIEUW Cultuur en Maatschappij,m,1999,Ja,Positief,0,14,Ja,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000191,SINT MAARTENSDIJK,Applicatieontwikkelaar,m,1997,Ja,Positief,0,16,Ja,,,7,6,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Regulier traject
+2000192,TILBURG,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,0,16,-,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000193,ZEGGE,HAVO NIEUW Natuur en Techniek,m,1998,Ja,Twijfel,0,15,Ja,,,7,7,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Regulier traject
+2000194,HOOGVLIET ROTTERDAM,HAVO Natuur en Gezondheid,m,1988,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,6,7,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000195,ARKEL,Mediadeveloper,m,1997,Ja,Positief,0,18,Ja,,,7,8,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Verkort traject
+2000196,BREDA,VWO NIEUW Natuur en Techniek,m,1999,Ja,Positief,0,18,Ja,,,7,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000197,DORDRECHT,HAVO NIEUW Economie en Maatschappij,m,1997,Ja,Twijfel,0,13,Ja,,,6,5,6,6,Nee,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000198,DORDRECHT,VWO NIEUW Natr en Tech+Natuur en Gezondh,m,1993,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,6,5,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000199,HALSTEREN,Mediadeveloper,m,1994,Ja,Twijfel,0,12,Nee,Uitgeschreven voor opleiding.,,6,5,5,6,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000200,OOSTERHOUT NB,Buitenlands Diploma,m,1990,Ja,Positief,0,18,Ja,,,5,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000201,Essen,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Negatief,1,11,Nee,Uitgeschreven voor opleiding.,Environmental Science for Sustainable Energy and Technology of Milieukunde,6,5,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-
+2000202,OOSTERHOUT NB,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Twijfel,0,16,Ja,,Informatica,5,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-
+2000203,DORDRECHT,HAVO NIEUW Cultuur en Maatschappij,v,1994,Ja,Positief,1,18,Ja,,,6,7,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000204,LANGEWEG,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,17,Ja,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000205,ETTEN-LEUR,AV-Prod geluidstechnicus KC GOC,m,1994,Ja,Positief,1,18,-,,,7,8,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000206,BREDA,VWO NIEUW Natr en Tech+Natuur en Gezondh,m,1994,Ja,Positief,0,17,-,Uitgeschreven voor opleiding.,Technische Informatica,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000207,DINTELOORD,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,0,14,Ja,,,7,5,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000208,EINDHOVEN,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1998,,Negatief,1,,-,Uitgeschreven voor opleiding.,,5,7,5,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000209,BREDA,Colloquium Doctum,m,1993,Ja,Twijfel,0,15,-,,,6,6,6,6,Nee,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000210,BREDA,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Positief,0,16,Ja,,,6,6,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000211,TILBURG,HAVO NIEUW Natuur en Gezondheid,m,1999,Ja,Positief,0,17,-,,,6,8,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000212,SCHIEDAM,HAVO NIEUW Economie en Maatschappij,m,1997,Ja,Twijfel,0,16,Ja,,,4,6,6,6,Nee,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000213,BERLICUM NB,HAVO NIEUW Natuur en Techniek,m,2000,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Technische Informatica,4,8,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000214,ROOSENDAAL,HAVO NIEUW Economie en Maatschappij,m,1999,,Positief,2,,-,Uitgeschreven voor opleiding.,Informatica,5,8,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000215,GILZE,HAVO NIEUW Natuur en Gezondheid,m,1998,Ja,Positief,1,18,Ja,,,7,6,7,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000216,ZIERIKZEE,HAVO NIEUW Economie en Maatschappij,m,1999,,Negatief,1,,-,Uitgeschreven voor opleiding.,,6,5,8,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000217,PAPENDRECHT,VWO NIEUW Natuur en Gezondheid,v,1996,Ja,Positief,0,17,Ja,,,6,7,4,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000218,OUD BEIJERLAND,HAVO NIEUW Natuur en Gezondheid,m,1994,Ja,Positief,0,17,Ja,,,6,8,5,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000219,BREDA,HAVO NIEUW Economie en Maatschappij,m,1989,Ja,Twijfel,0,13,Ja,,Informatica,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-
+2000220,TILBURG,HAVO NIEUW Economie en Maatschappij,m,1991,Ja,Twijfel,1,17,Ja,,,7,5,7,6,Nee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000221,BREDA,HAVO NIEUW Economie en Maatschappij,m,1991,Ja,Positief,0,17,Ja,,,7,6,5,8,Nee,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-
+2000222,ROOSENDAAL,Biotechnologisch analist,v,1987,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,7,8,4,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000223,NIEUWENDIJK NB,HAVO NIEUW Natuur en Gezondheid,m,1997,Ja,Positief,1,15,-,,,6,6,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000224,DORDRECHT,HAVO NIEUW Economie en Maatschappij,m,1995,Ja,Positief,0,18,Ja,,,7,7,7,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000225,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1998,Ja,Positief,0,18,Ja,,Chemie,6,8,8,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000226,BARENDRECHT,HAVO NIEUW Economie en Maatschappij,m,1997,,Negatief,1,,-,Uitgeschreven voor opleiding.,Business IT & Management,7,5,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000227,PAPENDRECHT,HAVO NIEUW Natuur en Techniek,m,1999,Ja,Twijfel,2,17,-,,,6,7,6,6,Nee,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,-
+2000228,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,m,1999,Ja,Positief,1,17,Ja,,,6,6,7,7,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000229,HEINKENSZAND,HAVO NIEUW Econ en Maatsch+Cult en Maats,m,1998,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Business IT & Management,6,6,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000230,TRICHT,Colloquium Doctum,m,1992,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,7,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000231,DORDRECHT,HAVO NIEUW Natuur en Techniek,m,2000,Ja,Positief,0,17,-,Uitgeschreven voor opleiding.,,6,5,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000232,SLIEDRECHT,HAVO NIEUW Natuur en Techniek,m,1996,Ja,Twijfel,0,16,Ja,,,6,7,6,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-
+2000233,PRINSENBEEK,HAVO NIEUW Economie en Maatschappij,m,1998,,Twijfel,1,,-,Uitgeschreven voor opleiding.,,6,6,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000234,BREDA,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1997,,Negatief,0,,-,Uitgeschreven voor opleiding.,Social Work,5,6,8,4,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000235,'S-HERTOGENBOSCH,HAVO NIEUW Natr en Tech+Natr en Gezondh,v,1995,,Positief,1,0,-,Uitgeschreven voor opleiding.,Informatica,7,6,5,8,Nee,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,-
+2000236,ROTTERDAM,Grafisch Lyceum Rotterdam voor MBO en VMBO,V,1995,,Negatief,1,,-,Uitgeschreven voor opleiding.,Vormgeving,7,5,6,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000237,BREDA,HAVO NIEUW Economie en Maatschappij,m,1998,,Negatief,1,,-,Uitgeschreven voor opleiding.,Bedrijfseconomie,6,6,5,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000238,MADE,HAVO NIEUW Economie en Maatschappij,m,1999,Ja,Positief,0,17,-,,Informatica,7,7,7,7,Nee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000239,NOORDELOOS,HAVO NIEUW Economie en Maatschappij,m,1998,,Negatief,0,,-,Uitgeschreven voor opleiding.,International Business and Languages,5,6,7,5,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000240,VEGHEL,Netwerkbeheerder,m,1990,Ja,Twijfel,0,14,-,,,6,6,6,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000241,NIEUW EN SINT JOOSLAND,HAVO Certificaat,m,1992,,Twijfel,0,,-,Uitgeschreven voor opleiding.,Informatica,7,5,5,7,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000242,ROOSENDAAL,HAVO NIEUW Economie en Maatschappij,m,1997,,Positief,0,,-,,,6,7,6,8,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+2000243,ROOSENDAAL,HAVO NIEUW Economie en Maatschappij,m,1998,Ja,Twijfel,2,17,-,,,6,5,7,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
+2000244,BREDA,ICT-beheerder,m,1997,,Twijfel,0,,-,Uitgeschreven voor opleiding.,,6,7,5,6,Nee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Regulier traject
